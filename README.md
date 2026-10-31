@@ -1,7 +1,7 @@
 ## Hi there, I'm Samvid 👋
 
-🤓 CSE_DS student at TGPCET</br>
-🧠 Learnin to code rn</br>
+🤓 CSE_DS student </br>
+🧠 Exploring software devlopment , python , sql , fintech </br>
 https://www.instagram.com/samvid._s/</br> 
 
 
